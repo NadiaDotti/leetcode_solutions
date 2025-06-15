@@ -11,6 +11,9 @@ This repository contains my personal solutions to coding problems from [LeetCode
 | 1 | Two Sum | Easy | [Link](https://leetcode.com/problems/two-sum) |
 | 3 | Longest Substring Without Repeating Characters | Medium | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
 | 9 | Palindrome Number | Easy | [Link](https://leetcode.com/problems/palindrome-number) |
+| 121 | Best Time to Buy and Sell Stock | Easy | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) |
+| 217 | Contains Duplicate | Easy | [Link](https://leetcode.com/problems/contains-duplicate) |
+| 242 | Valid Anagram | Easy | [Link](https://leetcode.com/problems/valid-anagram) |
 | 1399 | Count Largest Group | Easy | [Link](https://leetcode.com/problems/count-largest-group) |
 | 1550 | Three Consecutive Odds | Easy | [Link](https://leetcode.com/problems/three-consecutive-odds) |
 | 2131 | Longest Palindrome Concatenating Two Letter Word | Medium | [Link](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words) |
